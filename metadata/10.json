@@ -1,0 +1,31 @@
+{
+  "name": "Web3 Professional Passport #10 — Богдан",
+  "description": "Soulbound reputation passport for employee productivity tracking in a Web3-based information system.",
+  "image": "https://IvanRak9.github.io/web3-passports-metadata/images/passport-10.svg",
+  "attributes": [
+    {
+      "trait_type": "Employee",
+      "value": "Богдан"
+    },
+    {
+      "trait_type": "Role",
+      "value": "Security Engineer"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Middle"
+    },
+    {
+      "trait_type": "Passport Type",
+      "value": "Soulbound Token"
+    },
+    {
+      "trait_type": "Transferability",
+      "value": "Non-transferable"
+    },
+    {
+      "trait_type": "System",
+      "value": "Productivity Stimulation Information System"
+    }
+  ]
+}
